@@ -1,0 +1,25 @@
+{
+  "name": "bollywood-recommendation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abirbhattacharya82/bollywood-recommendation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abirbhattacharya82/bollywood-recommendation/issues"
+  },
+  "homepage": "https://github.com/abirbhattacharya82/bollywood-recommendation#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "express": "^4.18.1"
+  }
+}
