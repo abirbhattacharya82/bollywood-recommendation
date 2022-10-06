@@ -20,7 +20,7 @@ Movie_ID,Title,Year,Genre
 34777,Deewane,2000,"Action, Romance"
 34778,Dhai Akshar Prem Ke,2000,"Romance, Drama"
 34779,Dhadkan,2000,"Romance, Drama"
-34780,Dil Ki Dhadkan,2000,
+34780,Dil Ki Dhadkan,2000,"Romance, Drama"
 34781,Dil Pe Mat Le Yaar,2000,Drama
 34782,Dr. Babasaheb Ambedkar,2000,
 34783,Dr Mukta,2000,
@@ -1690,7 +1690,7 @@ Movie_ID,Title,Year,Genre
 35862,A Flat,2010,Thriller
 35863,Ramaa: The Saviour,2010,"Action, Adventure"
 35864,Guzaarish,2010,Romance
-35865,Shahrukh Bola "Khoobsurat Hai Tu",2010,Thriller
+35865,"Shahrukh Bola ""Khoobsurat Hai Tu""",2010,Thriller
 35866,Diwangi Ne Had Kar Di,2010,Romance / Thriller
 35867,Allah Ke Banday,2010,Thriller
 35868,Break Ke Baad,2010,Romance
@@ -2718,3 +2718,28 @@ Movie_ID,Title,Year,Genre
 36970,Mardaani 2,2019,"Crime,Thriller"
 36971,Dabangg 3,2019,Action
 36972,Good News,2019,Comedy
+36973,Ghost Stories,2020,
+36974,Bhangra Paa Le,2020,
+36975,Sab Kushal Mangal,2020,
+36976,Shimla Mirchi,2020,
+36977,Half Widow,2020,
+36978,Chhapaak,2020,
+36979,Tanhaji,2020,
+36980,Bunker,2020,
+36981,Jai Mummy Di,2020,
+36982,Panga,2020,
+36983,Street Dancer 3D,2020,
+36984,Gul Makai,2020,
+36985,Happy Hardy and Heer,2020,
+36986,Pagleaazam,2020,
+36987,Operation Parindey,2020,
+36988,Hacked,2020,
+36989,Kaanchli Life in a Slough,2020,
+36990,Malang,2020,
+36991,Yahan Sabhi Gyani Hain,2020,
+36992,Shikara,2020,
+36993,Khawab Sare Jhoothey,2020,
+36994,Love Aaj Kal,2020,
+36995,Shukranu,2020,
+36996,Bhoot Part One: The Haunted Ship,2020,
+36997,The Hundred Bucks,2020,
